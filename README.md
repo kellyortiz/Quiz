@@ -1,2 +1,2 @@
-# Quiz em Javascript de League of Legends
+# Quiz League of Legends em JavaScript
 Projeto de Tecnologia web 2.
